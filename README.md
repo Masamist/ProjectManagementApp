@@ -1,3 +1,14 @@
+# Project management app called The Dojo
+
+This project is from Udemy course and practice to use React and Firebase and creating Full stack app.
+
+## Deploy
+The Dojo Link
+https://thedojosite-b5493.web.app/projects/wk6vjdjWyd1Jm7bfzjcl
+
+Note: bug to be fixed
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
